@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "puppeteer": "^21.6.0",
-    "googleapis": "^131.0.0"
-  }
+  "puppeteer-core": "^22.0.0",
+  "@sparticuz/chromium-min": "^119.0.2",
+  "googleapis": "^131.0.0"
+}
+
 }
